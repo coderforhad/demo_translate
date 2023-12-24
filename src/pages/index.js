@@ -75,7 +75,7 @@ const Page = () => {
   return (
     <>
       <Head>
-        <title>Customers | AI App</title>
+        <title>Home | AI App</title>
       </Head>
       <Box
         component="main"
